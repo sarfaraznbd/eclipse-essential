@@ -17,5 +17,11 @@ public class Example {
 		// TODO Auto-generated method stub
 		System.out.println("Test 1");
 	}
+	/**
+	 * 
+	 */
+	public void test() {
+		
+	}
 
 }
